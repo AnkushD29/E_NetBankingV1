@@ -1,0 +1,65 @@
+2022-01-08 20:24:45,390 - eBanking -INFO - URL is Opened
+2022-01-08 20:24:46,040 - eBanking -INFO - Entered UserName
+2022-01-08 20:24:46,368 - eBanking -INFO - Entered Password
+2022-01-08 20:24:47,856 - eBanking -INFO - Login Test Passed
+2022-01-08 20:24:56,996 - eBanking -INFO - UserName Provided
+2022-01-08 20:24:57,164 - eBanking -INFO - Password Provided
+2022-01-08 20:25:02,035 - eBanking -INFO - Login Passed
+2022-01-08 20:25:08,205 - eBanking -INFO - UserName Provided
+2022-01-08 20:25:08,428 - eBanking -INFO - Password Provided
+2022-01-08 20:25:13,939 - eBanking -INFO - UserName Provided
+2022-01-08 20:25:14,077 - eBanking -INFO - Password Provided
+2022-01-08 20:25:18,383 - eBanking -INFO - Login Passed
+2022-01-08 20:25:24,590 - eBanking -INFO - UserName Provided
+2022-01-08 20:25:24,788 - eBanking -INFO - Password Provided
+2022-01-08 20:25:30,258 - eBanking -INFO - UserName Provided
+2022-01-08 20:25:30,397 - eBanking -INFO - Password Provided
+2022-01-08 20:25:42,664 - eBanking -INFO - User Name is Provided
+2022-01-08 20:25:43,156 - eBanking -INFO - Password is Provided
+2022-01-08 20:25:45,336 - eBanking -INFO - Providing customer details....
+2022-01-08 20:25:55,833 - eBanking -INFO - Validation Started..
+2022-01-08 20:25:55,860 - eBanking -INFO - Testcase is Passed...
+2022-01-10 20:23:24,400 - eBanking -INFO - URL is Opened
+2022-01-10 20:23:26,269 - eBanking -INFO - Entered UserName
+2022-01-10 20:23:26,437 - eBanking -INFO - Entered Password
+2022-01-10 20:23:28,706 - eBanking -INFO - Login Test Passed
+2022-01-10 20:23:38,801 - eBanking -INFO - User Name is Provided
+2022-01-10 20:23:38,990 - eBanking -INFO - Password is Provided
+2022-01-10 20:23:41,515 - eBanking -INFO - Providing customer details....
+2022-01-10 20:23:50,477 - eBanking -INFO - Validation Started..
+2022-01-10 20:24:57,593 - eBanking -INFO - URL is Opened
+2022-01-10 20:24:58,016 - eBanking -INFO - Entered UserName
+2022-01-10 20:24:58,233 - eBanking -INFO - Entered Password
+2022-01-10 20:24:59,717 - eBanking -INFO - Login Test Passed
+2022-01-10 20:25:07,465 - eBanking -INFO - User Name is Provided
+2022-01-10 20:25:07,892 - eBanking -INFO - Password is Provided
+2022-01-10 20:25:10,182 - eBanking -INFO - Providing customer details....
+2022-01-10 20:25:20,241 - eBanking -INFO - Validation Started..
+2022-01-10 20:25:20,387 - eBanking -INFO - Testcase is Passed...
+2022-01-11 14:31:29,616 - eBanking -INFO - URL is Opened
+2022-01-11 14:31:32,058 - eBanking -INFO - Entered UserName
+2022-01-11 14:31:32,203 - eBanking -INFO - Entered Password
+2022-01-11 14:31:34,282 - eBanking -INFO - Login Test Passed
+2022-01-11 14:31:45,647 - eBanking -INFO - User Name is Provided
+2022-01-11 14:31:45,821 - eBanking -INFO - Password is Provided
+2022-01-11 14:31:48,713 - eBanking -INFO - Providing customer details....
+2022-01-11 14:31:58,928 - eBanking -INFO - Validation Started..
+2022-01-11 14:31:59,060 - eBanking -INFO - Testcase is Passed...
+2022-01-11 14:53:25,770 - eBanking -INFO - URL is Opened
+2022-01-11 14:53:26,319 - eBanking -INFO - Entered UserName
+2022-01-11 14:53:26,653 - eBanking -INFO - Entered Password
+2022-01-11 14:53:28,588 - eBanking -INFO - Login Test Passed
+2022-01-11 14:53:36,096 - eBanking -INFO - User Name is Provided
+2022-01-11 14:53:36,308 - eBanking -INFO - Password is Provided
+2022-01-11 14:53:38,713 - eBanking -INFO - Providing customer details....
+2022-01-11 14:53:48,832 - eBanking -INFO - Validation Started..
+2022-01-11 14:53:48,860 - eBanking -INFO - Testcase is Passed...
+2022-01-12 16:01:17,394 - eBanking -INFO - URL is Opened
+2022-01-12 16:01:18,509 - eBanking -INFO - Entered UserName
+2022-01-12 16:01:18,633 - eBanking -INFO - Entered Password
+2022-01-12 16:01:21,517 - eBanking -INFO - Login Test Passed
+2022-01-12 16:01:29,486 - eBanking -INFO - User Name is Provided
+2022-01-12 16:01:29,861 - eBanking -INFO - Password is Provided
+2022-01-12 16:01:32,668 - eBanking -INFO - Providing customer details....
+2022-01-12 16:01:43,283 - eBanking -INFO - Validation Started..
+2022-01-12 16:01:43,483 - eBanking -INFO - Testcase is Passed...

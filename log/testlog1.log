@@ -1,0 +1,65 @@
+2022-01-08 20:24:45,390 [main] INFO eBanking - URL is Opened
+2022-01-08 20:24:46,040 [main] INFO eBanking - Entered UserName
+2022-01-08 20:24:46,368 [main] INFO eBanking - Entered Password
+2022-01-08 20:24:47,856 [main] INFO eBanking - Login Test Passed
+2022-01-08 20:24:56,996 [main] INFO eBanking - UserName Provided
+2022-01-08 20:24:57,164 [main] INFO eBanking - Password Provided
+2022-01-08 20:25:02,035 [main] INFO eBanking - Login Passed
+2022-01-08 20:25:08,205 [main] INFO eBanking - UserName Provided
+2022-01-08 20:25:08,428 [main] INFO eBanking - Password Provided
+2022-01-08 20:25:13,939 [main] INFO eBanking - UserName Provided
+2022-01-08 20:25:14,077 [main] INFO eBanking - Password Provided
+2022-01-08 20:25:18,383 [main] INFO eBanking - Login Passed
+2022-01-08 20:25:24,590 [main] INFO eBanking - UserName Provided
+2022-01-08 20:25:24,788 [main] INFO eBanking - Password Provided
+2022-01-08 20:25:30,258 [main] INFO eBanking - UserName Provided
+2022-01-08 20:25:30,397 [main] INFO eBanking - Password Provided
+2022-01-08 20:25:42,664 [main] INFO eBanking - User Name is Provided
+2022-01-08 20:25:43,156 [main] INFO eBanking - Password is Provided
+2022-01-08 20:25:45,336 [main] INFO eBanking - Providing customer details....
+2022-01-08 20:25:55,833 [main] INFO eBanking - Validation Started..
+2022-01-08 20:25:55,860 [main] INFO eBanking - Testcase is Passed...
+2022-01-10 20:23:24,400 [main] INFO eBanking - URL is Opened
+2022-01-10 20:23:26,269 [main] INFO eBanking - Entered UserName
+2022-01-10 20:23:26,437 [main] INFO eBanking - Entered Password
+2022-01-10 20:23:28,706 [main] INFO eBanking - Login Test Passed
+2022-01-10 20:23:38,801 [main] INFO eBanking - User Name is Provided
+2022-01-10 20:23:38,990 [main] INFO eBanking - Password is Provided
+2022-01-10 20:23:41,515 [main] INFO eBanking - Providing customer details....
+2022-01-10 20:23:50,477 [main] INFO eBanking - Validation Started..
+2022-01-10 20:24:57,593 [main] INFO eBanking - URL is Opened
+2022-01-10 20:24:58,016 [main] INFO eBanking - Entered UserName
+2022-01-10 20:24:58,233 [main] INFO eBanking - Entered Password
+2022-01-10 20:24:59,717 [main] INFO eBanking - Login Test Passed
+2022-01-10 20:25:07,465 [main] INFO eBanking - User Name is Provided
+2022-01-10 20:25:07,892 [main] INFO eBanking - Password is Provided
+2022-01-10 20:25:10,182 [main] INFO eBanking - Providing customer details....
+2022-01-10 20:25:20,241 [main] INFO eBanking - Validation Started..
+2022-01-10 20:25:20,387 [main] INFO eBanking - Testcase is Passed...
+2022-01-11 14:31:29,616 [main] INFO eBanking - URL is Opened
+2022-01-11 14:31:32,058 [main] INFO eBanking - Entered UserName
+2022-01-11 14:31:32,203 [main] INFO eBanking - Entered Password
+2022-01-11 14:31:34,282 [main] INFO eBanking - Login Test Passed
+2022-01-11 14:31:45,647 [main] INFO eBanking - User Name is Provided
+2022-01-11 14:31:45,821 [main] INFO eBanking - Password is Provided
+2022-01-11 14:31:48,713 [main] INFO eBanking - Providing customer details....
+2022-01-11 14:31:58,928 [main] INFO eBanking - Validation Started..
+2022-01-11 14:31:59,060 [main] INFO eBanking - Testcase is Passed...
+2022-01-11 14:53:25,770 [main] INFO eBanking - URL is Opened
+2022-01-11 14:53:26,319 [main] INFO eBanking - Entered UserName
+2022-01-11 14:53:26,653 [main] INFO eBanking - Entered Password
+2022-01-11 14:53:28,588 [main] INFO eBanking - Login Test Passed
+2022-01-11 14:53:36,096 [main] INFO eBanking - User Name is Provided
+2022-01-11 14:53:36,308 [main] INFO eBanking - Password is Provided
+2022-01-11 14:53:38,713 [main] INFO eBanking - Providing customer details....
+2022-01-11 14:53:48,832 [main] INFO eBanking - Validation Started..
+2022-01-11 14:53:48,860 [main] INFO eBanking - Testcase is Passed...
+2022-01-12 16:01:17,394 [main] INFO eBanking - URL is Opened
+2022-01-12 16:01:18,509 [main] INFO eBanking - Entered UserName
+2022-01-12 16:01:18,633 [main] INFO eBanking - Entered Password
+2022-01-12 16:01:21,517 [main] INFO eBanking - Login Test Passed
+2022-01-12 16:01:29,486 [main] INFO eBanking - User Name is Provided
+2022-01-12 16:01:29,861 [main] INFO eBanking - Password is Provided
+2022-01-12 16:01:32,668 [main] INFO eBanking - Providing customer details....
+2022-01-12 16:01:43,283 [main] INFO eBanking - Validation Started..
+2022-01-12 16:01:43,483 [main] INFO eBanking - Testcase is Passed...
